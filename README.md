@@ -161,6 +161,11 @@ Access the app at http://localhost:3000.
   "status": "completed"
 }
 ```
+## **API Documentation**
+
+The API documentation is available in Postman. Click here to view the documentation.
+https://documenter.getpostman.com/view/37628509/2sAYQdjVbd
+
 
 - **Project Structure:**
 ```bash
