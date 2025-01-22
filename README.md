@@ -44,7 +44,7 @@ The **Student Management System API** is a backend application built with Node.j
 
 - **Backend:**
   ```bash
-  cd cd student-managment
+  cd  student-managment
 
 **Install dependencies:**
 
@@ -54,7 +54,7 @@ npm install
 
 **Configure environment variables:**
 
-- **Backend**: Add `.env`.  
+- **Backend**: Add `.env` 
 
 ---
 **Set up the .env file with the following variables:**
@@ -86,7 +86,7 @@ Access the app at http://localhost:3000.
 1. **Admin Login:**
 
 
-**POST /admin/login**
+**POST /auth/admin/login**
 
   **Request Body:**
   ```bash
@@ -132,7 +132,7 @@ Access the app at http://localhost:3000.
 1. **Student Login:**
 
 
-**POST /student/login**
+**POST /auth/student/login**
 
   **Request Body:**
   ```bash
